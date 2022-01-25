@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Roman
 #### I am a beginner frontend developer. 
+I live in Kazan.
 My first programming language that I started learning was python. However, since I tried Javascript, I definitely decided to become a front-end developer. I started my journey to Frontend in November 2020. It all started with the study of HTML and CSS, with the help of various printed materials and materials from the Internet. I have been learning Javascript since August 2021.
 
 Skills: JS / HTML / CSS / SASS / 
